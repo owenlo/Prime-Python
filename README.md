@@ -1,4 +1,2 @@
 # Prime-Python
-Prime numbers in Python
-
-Generate prime numbers based on a specified range.
+Generate prime numbers in Python based on a specified range.
